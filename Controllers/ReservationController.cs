@@ -860,4 +860,11 @@ namespace WeCareWebApp.Controllers
             }
         }
     }
+
+    public class Role
+{
+    public DateTime CreatedOnDate { get; set; }
+    // Other properties...
+}
+
 }
